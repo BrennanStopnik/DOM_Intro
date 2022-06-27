@@ -34,7 +34,8 @@ let child4 = document.querySelector("#child4");
 child4.style.fontSize = "40px";
 
 console.log("Hello World");
-console.log(child1.innerText)
+console.log(child1.innerText);
+console.log(element);
 
 
 

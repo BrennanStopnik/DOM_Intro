@@ -35,7 +35,7 @@ child4.style.fontSize = "40px";
 
 console.log("Hello World");
 console.log(child1.innerText);
-console.log(element);
+// console.log(element); This will create an error because it's not defined.
 
 
 

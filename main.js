@@ -14,7 +14,7 @@ child1.className = 'child2';
 let child3 = document.querySelector(".child3");
 
 // Able to apply css styles to an element
-child3.style.border = '4px solid blue'; 
+child3.style.border = '4px solid blue';
 child3.style.background = 'aqua';
 
 let image = document.querySelector("img");
